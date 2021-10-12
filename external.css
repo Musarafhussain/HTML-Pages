@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+body{
+    
+}
+.redcolor{
+    color: chartreuse;
+    font-family: cursive;
+    font-size: 20px;
+    background-color: coral;
+    font-weight: 600;
+    font-style: italic;
+
+}
+.bg{
+    border: coral;
+    height: 300px;
+    background-color: cornflowerblue;
+    background-image: url(https://www.google.com/search?q=images&sxsrf=AOaemvKrir3qG2eTH2jxM3T-sBIMtCitOQ:1633933918863&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjZs8eW3sHzAhVDuksFHbpfBgoQ_AUoAXoECAEQAw&biw=767&bih=700&dpr=1.25#imgrc=yRdsZ-zqxwGPmM);
+}
